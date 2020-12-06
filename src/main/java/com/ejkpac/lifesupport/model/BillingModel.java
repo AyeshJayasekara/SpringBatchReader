@@ -10,7 +10,7 @@ import java.math.BigDecimal;
 import java.util.Date;
 
 @Entity
-@Table(name = "billing")
+@Table(name = "bizao_billing")
 @Data
 public class BillingModel {
 
